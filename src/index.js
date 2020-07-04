@@ -1,5 +1,6 @@
-import anything from './app';
-import addImage from './addImage';
+import AppButton from './components/app-button/appButton';
+// import addImage from './addImage';
 
-anything();
-addImage();
+const appButton = new AppButton();
+appButton.render();
+// addImage();
