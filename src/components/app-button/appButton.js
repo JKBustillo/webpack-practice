@@ -1,4 +1,4 @@
-import './AppButton.scss';
+import './appButton.scss';
 
 class AppButton {
     buttonCssClass = 'app-button';
